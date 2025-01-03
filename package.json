@@ -1,0 +1,22 @@
+{
+  "name": "chromeextension",
+  "version": "1.0.0",
+  "description": "Saving timestamps in YT videos",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parasss19/VideoTimestamp_Extension.git"
+  },
+  "author": "Paras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parasss19/VideoTimestamp_Extension/issues"
+  },
+  "homepage": "https://github.com/parasss19/VideoTimestamp_Extension#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
